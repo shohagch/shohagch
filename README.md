@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning security on blockchain
 - 💞️ I’m looking to collaborate on solidity & blockchain technology!
 - 📫 How to reach me eshohag@outlook.com
-- My Linkdin- https://www.linkedin.com/in/eshohag 
+- Linkedin https://www.linkedin.com/in/eshohag 
 
 <!---
 shohagch/shohagch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
